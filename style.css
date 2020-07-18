@@ -2,10 +2,10 @@
 
 .form-group{
     display: flex;
-    justify-content: center;
+    
 }
 label{
-    text-align: center;
+    
     width: 50%;
     padding-top: 30px;
 }
