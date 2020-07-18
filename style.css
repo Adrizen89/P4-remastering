@@ -1,4 +1,18 @@
 
+
+.form-group{
+    display: flex;
+    justify-content: center;
+}
+label{
+    text-align: center;
+    width: 50%;
+    padding-top: 30px;
+}
+input, textarea{
+    margin-top: 20px;
+}
+
 .col-sm-12, .img{
     font-size: 1.6em;
     width: 100;
@@ -712,7 +726,8 @@ p {
 }
 
 .cta-hero {
-    margin-top: 22px;
+    margin: auto;
+
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
